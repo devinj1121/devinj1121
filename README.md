@@ -1,5 +1,5 @@
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-- 🌐 **Freelance Translator:** Technical and scientific translation at Sen Translation
+- 🌐 **Freelance Translator:** Technical and scientific translation at Sen Translation (ja,zh-tw → en-us)
 - 🎓 **PhD Candidate:** Natural language syntax and parsing research at Northwestern University
 - ⚙️ **Programmer:** (Embedded/Hardware/Systems) ∪ (Mathematics) ∪ (Linguistics)
 
