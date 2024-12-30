@@ -20,7 +20,7 @@
 [![](https://img.shields.io/badge/-🔲%20Nand2Tetris-000)](https://github.com/devinj1121/nand2tetris)
 
 ### Mathematics
-[![](https://img.shields.io/badge/-🧮Project%20Euler%20in%20C-000)](https://github.com/devinj1121/projecteuler)
+[![](https://img.shields.io/badge/-🧮Project%20Euler%20(C)-000)](https://github.com/devinj1121/projecteuler)
 
 ### Linguistics
 [![](https://img.shields.io/badge/-👁️%20L--Maze%20Experiment%20Generator-000)](https://github.com/devinj1121/lmaze_automate)
