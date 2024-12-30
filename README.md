@@ -16,7 +16,7 @@
 
 ## 🔨 Projects
 
-### Hardware/Embedded
+### Hardware + Embedded
 [![](https://img.shields.io/badge/-🔲%20Nand2Tetris-000)](https://github.com/devinj1121/nand2tetris)
 
 ### Mathematics
