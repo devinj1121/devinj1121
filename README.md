@@ -17,7 +17,7 @@
 ## 🔨 Projects
 
 ### Low-Level & Embedded
-[![](https://img.shields.io/badge/-🔲%20Nand2Tetris-000)](https://github.com/devinj1121/nand2tetris)
+--More soon--
 
 ### Mathematics
 [![](https://img.shields.io/badge/-🧮Project%20Euler%20(C)-000)](https://github.com/devinj1121/projecteuler)
