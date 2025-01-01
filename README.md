@@ -1,7 +1,7 @@
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 🌐 **Freelance Translator:** Technical and scientific translation at Sen Translation (ja,zh-tw → en-us)
 - 🎓 **PhD Candidate:** Natural language syntax and parsing research at Northwestern University
-- ⚙️ **Programmer:** Digital design; low-level software; embedded; mathematics; linguistics
+- ⚙️ **Programmer:** Hardware design; embedded; mathematics; linguistics
 
 ### Natural Languages
 ![English](https://img.shields.io/badge/-🇺🇸%20English%20(en--us)-000)
@@ -16,7 +16,10 @@
 
 ## 🔨 Projects
 
-### Low-Level & Embedded
+### Hardware Design
+--More soon--
+
+### Embedded
 --More soon--
 
 ### Mathematics
